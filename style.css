@@ -79,6 +79,8 @@ header > ol li a {
 
 .heading {
   margin: 40px 0;
+  font-size: 24px;
+  color: #1f2937;
 }
 
 .staff-info {
@@ -90,6 +92,7 @@ header > ol li a {
 .staff-info > div {
   text-align: center;
   margin-bottom: 50px;
+  font-size: 18px;
 }
 
 .staff-info > div > img {
@@ -97,4 +100,29 @@ header > ol li a {
   height: 150px;
   border-radius: 10px;
   margin-bottom: 30px;
+}
+
+/****************/
+/**TESTIMONIAL**/
+/****************/
+
+.testimonial {
+  background-color: #e5e7eb;
+}
+
+.testimonial > figure {
+  padding: 120px 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 28px;
+  font-weight: 300;
+  color: #1f2937;
+}
+
+figure > figcaption {
+  font-weight: 700;
+  margin-top: 20px;
+  margin-left: 70%;
+  font-size: 20px;
 }
