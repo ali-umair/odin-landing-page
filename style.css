@@ -62,6 +62,16 @@ header > ol li a {
   padding: 10px 50px;
 }
 
+.signup-btn {
+  background-color: #3882f6;
+  color: #f9faf8;
+  padding:  5px 30px;
+  margin-top: 15px;
+  margin-left: 200px;
+  border: 0px white solid;
+  border-radius: 10px;
+}
+
 .hero-image > img {
   width: 550px;
   height: 250px;
