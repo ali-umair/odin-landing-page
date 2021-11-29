@@ -126,3 +126,43 @@ figure > figcaption {
   margin-left: 70%;
   font-size: 20px;
 }
+
+/****************/
+/***** CTA *****/
+/****************/
+
+.call-to-action {
+  color: #f9faf8;
+  padding: 100px;
+}
+
+.cta-container {
+  background-color: #3882f6;
+  padding: 80px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.cta-content > p {
+  color: #e5e7eb;
+}
+
+.cta-button {
+  background-color: #3882f6;
+  color: #f9faf8;
+  padding:  5px 40px;
+  border: 2px white solid;
+  border-radius: 10px;
+}
+
+/****************/
+/**** FOOTER  ***/
+/****************/
+
+.footer {
+  background-color: #1f2937;
+  color: #e5e7eb;
+  padding: 20px 0px;
+  text-align: center;
+}
